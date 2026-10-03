@@ -31,6 +31,11 @@ section {
     margin-bottom: 20px;
 }
 
+#promociones {
+    background-color: #fff3cd;
+    border-left: 5px solid #d4a017;
+}
+
 h2 {
     color: #6f4e37;
 }
